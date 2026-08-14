@@ -1,6 +1,6 @@
 {
-  "version": "6.5.9",
-  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.5.9/Timmy-Style-Edition-v6.5.9-atomic-updater-hotfix.exe",
-  "sha256": "05AAB6E321EE2AAD229166BE7FFF0D6FB1F34275EC4A5E91BC733818369E6C31",
-  "notes": "Sửa cơ chế thay EXE an toàn và lỗi thiếu python312.dll sau khi auto-update trên Windows."
+  "version": "6.6.0",
+  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.6.0/Timmy-Style-Edition-v6.6.0-spiderman-theme.exe",
+  "sha256": "3D266B3E7756B3A2730B7D9122791EE375B15C22753647560BE5FE9DDC286DE7",
+  "notes": "Spider-Man Web Swing theme: red/navy comic palette, animated web background and interactive web-swing scene. Test release for the atomic updater."
 }
