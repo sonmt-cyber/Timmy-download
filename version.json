@@ -1,6 +1,6 @@
 {
-  "version": "6.6.0",
-  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.6.0/Timmy-Style-Edition-v6.6.0-spiderman-theme.exe",
-  "sha256": "3D266B3E7756B3A2730B7D9122791EE375B15C22753647560BE5FE9DDC286DE7",
-  "notes": "Spider-Man Web Swing theme: red/navy comic palette, animated web background and interactive web-swing scene. Test release for the atomic updater."
+  "version": "6.6.1",
+  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.6.1/Timmy-Style-Edition-v6.6.1-runtime-load-hotfix.exe",
+  "sha256": "42F84ED9D4D93E5EB667D4A110B45FC745C56E344568121FD7D7C47A5F4C07AC",
+  "notes": "Runtime loader hotfix: extracts Python DLLs beside Timmy in Timmy-Runtime instead of Windows Temp, and disables DLL compression. Includes the Spider-Man theme."
 }
