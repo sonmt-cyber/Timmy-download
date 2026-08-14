@@ -1,6 +1,6 @@
 {
-  "version": "6.5.8",
-  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.5.8/Timmy-Style-Edition-v6.5.8-sticker-zoo-auto-update.exe",
-  "sha256": "93F7F39CBAFDD221C546F0B36B34493F336D26D507EC5E72C944438116C8CBF0",
-  "notes": "Meme Zoo đủ 27 sticker tách nền có viền trắng, logo Timmy mới và nút Update dùng sẵn manifest GitHub."
+  "version": "6.5.9",
+  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.5.9/Timmy-Style-Edition-v6.5.9-atomic-updater-hotfix.exe",
+  "sha256": "05AAB6E321EE2AAD229166BE7FFF0D6FB1F34275EC4A5E91BC733818369E6C31",
+  "notes": "Sửa cơ chế thay EXE an toàn và lỗi thiếu python312.dll sau khi auto-update trên Windows."
 }
