@@ -1,6 +1,6 @@
 {
-  "version": "6.6.1",
-  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.6.1/Timmy-Style-Edition-v6.6.1-runtime-load-hotfix.exe",
-  "sha256": "42F84ED9D4D93E5EB667D4A110B45FC745C56E344568121FD7D7C47A5F4C07AC",
-  "notes": "Runtime loader hotfix: extracts Python DLLs beside Timmy in Timmy-Runtime instead of Windows Temp, and disables DLL compression. Includes the Spider-Man theme."
+  "version": "6.7.0",
+  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.7.0/Timmy-Style-Edition-v6.7.0-silly-cat-theme.exe",
+  "sha256": "E0AA4480E20C0EA6D0DBC5641285C24C8AF29B8F9EF0CA5B2C1C971D50975CBC",
+  "notes": "Silly Cat Party: floating cat sticker wallpaper, white silhouette outlines, random cat interaction, and embedded music video. Includes the runtime-load hotfix."
 }
