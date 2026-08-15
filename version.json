@@ -1,6 +1,6 @@
 {
-  "version": "6.8.3",
-  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.8.3/Timmy-Style-Edition-v6.8.3-updater-reconnect-test.exe",
-  "sha256": "7c2c1a4512c0ac702ab8370f9b85b5908eb73d1b0b13254435af9223dae1ff7e",
-  "notes": "Version-only updater reconnect test. No UI, theme, downloader, or feature changes from v6.8.2."
+  "version": "6.8.5",
+  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.8.5/Timmy-Style-Edition-v6.8.5-updater-same-port-test.exe",
+  "sha256": "c160cf82968cd99cd6c4196605516a08ae945fb390c7f28000dab81d6a0d857d",
+  "notes": "Updater same-port reconnect test. The restarted app reuses the previous local port; no theme or downloader feature changes."
 }
