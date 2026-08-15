@@ -1,6 +1,6 @@
 {
-  "version": "6.8.1",
-  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.8.1/Timmy-Style-Edition-v6.8.1-happy-beach-update-test.exe",
-  "sha256": "299140835EF5915BA1128B1A3E70EC24FF9A5400C5F73DC88201E8AF850760CD",
-  "notes": "Happy Beach is now the first theme and becomes the one-time default after updating. Includes the safe updater with SHA-256 verification, rollback, and reliable restart."
+  "version": "6.8.3",
+  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.8.3/Timmy-Style-Edition-v6.8.3-updater-reconnect-test.exe",
+  "sha256": "7c2c1a4512c0ac702ab8370f9b85b5908eb73d1b0b13254435af9223dae1ff7e",
+  "notes": "Version-only updater reconnect test. No UI, theme, downloader, or feature changes from v6.8.2."
 }
