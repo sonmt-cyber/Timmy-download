@@ -1,6 +1,6 @@
 {
-  "version": "6.7.0",
-  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.7.0/Timmy-Style-Edition-v6.7.0-silly-cat-theme.exe",
-  "sha256": "E0AA4480E20C0EA6D0DBC5641285C24C8AF29B8F9EF0CA5B2C1C971D50975CBC",
-  "notes": "Silly Cat Party: floating cat sticker wallpaper, white silhouette outlines, random cat interaction, and embedded music video. Includes the runtime-load hotfix."
+  "version": "6.8.1",
+  "download_url": "https://github.com/sonmt-cyber/Timmy-download/releases/download/v6.8.1/Timmy-Style-Edition-v6.8.1-happy-beach-update-test.exe",
+  "sha256": "299140835EF5915BA1128B1A3E70EC24FF9A5400C5F73DC88201E8AF850760CD",
+  "notes": "Happy Beach is now the first theme and becomes the one-time default after updating. Includes the safe updater with SHA-256 verification, rollback, and reliable restart."
 }
